@@ -1,0 +1,13 @@
+name: GTNM
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - tensorflow-gpu==2.10.0
+    - sentencepiece==0.1.85
+    - tree-sitter
+    - pathos==0.2.8
+    - tqdm==4.36.1
+    - fuzzywuzzy==0.17.0
