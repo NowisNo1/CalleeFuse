@@ -164,13 +164,16 @@ of the corresponding baseline.
 ## Citation
 
 If you use this code or data, please cite our paper.
-```
+```BibTeX
 @inproceedings{luo2026calleefuse,
   author    = {Xingyue Luo and Weidong Wang},
-  title     = {A Callee Fusion-Enhanced Small-Scale Large Model to Alleviate Sub-Method Name Leakage in Method Name
-Prediction},
+  title     = {A Callee Fusion-Enhanced Small-Scale Large Model to Alleviate Sub-Method Name Leakage in Method Name Prediction},
   booktitle = {Proceedings of the 33rd Asia-Pacific Software Engineering Conference (APSEC)},
   year      = {2026},
   note      = {To appear}
 }
+```
+
+```Word
+X. Luo and W. Wang, "A callee fusion-enhanced small-scale large model to alleviate sub-method name leakage in method name prediction," in Proc. 33rd Asia-Pacific Software Engineering Conference (APSEC), 2026, to appear.
 ```
