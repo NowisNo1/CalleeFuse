@@ -164,6 +164,7 @@ of the corresponding baseline.
 ## Citation
 
 If you use this code or data, please cite our paper.
+```
 @inproceedings{luo2026calleefuse,
   author    = {Xingyue Luo and Weidong Wang},
   title     = {A Callee Fusion-Enhanced Small-Scale Large Model to Alleviate Sub-Method Name Leakage in Method Name
@@ -172,3 +173,4 @@ Prediction},
   year      = {2026},
   note      = {To appear}
 }
+```
